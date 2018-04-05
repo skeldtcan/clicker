@@ -1,0 +1,2 @@
+SSID = "Tcan"
+PASSWORD = "20657080"
