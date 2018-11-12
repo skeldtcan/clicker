@@ -1,0 +1,22 @@
+
+# The Clicker 
+
+`IOT Button Controller Using Wi-fi Moudle`
+
+
+### link:https://www.youtube.com/watch?v=8ayPGvTnJFY[Demo Video(Youtube)] 
+image::img/clicker1.jpg[]
+---
+
+### NodeMCU - ESP8266 Wi-Fi Module
+image::img/nodemcu.jpg[]
+
+
+### Diagram
+image::img/2.png[] 
+
+### Android App UI Sketch
+image::img/3.png[]
+
+### Installation Example
+image::img/1.png[]
